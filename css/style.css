@@ -1,0 +1,34 @@
+.tuhin{
+   padding: 100px 0;
+    background: #153e90;
+    color: white;
+}
+.paralax {
+    padding: 200px 0;
+}
+.box1{
+  min-height: 200px;
+  background-color: orange;
+}
+.box2{
+  min-height: 200px;
+  background-color: red;
+}
+
+/**
+ * Text 1
+ */
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+
+.parallax-window {
+    min-height: 300px;
+    background: transparent;
+}
